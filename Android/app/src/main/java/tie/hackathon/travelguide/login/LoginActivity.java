@@ -21,7 +21,7 @@ import android.widget.Toast;
 import com.afollestad.materialdialogs.MaterialDialog;
 import com.dd.processbutton.FlatButton;
 
-import Util.Constants;
+import utils.Constants;
 import butterknife.BindView;
 import butterknife.ButterKnife;
 import tie.hackathon.travelguide.MainActivity;

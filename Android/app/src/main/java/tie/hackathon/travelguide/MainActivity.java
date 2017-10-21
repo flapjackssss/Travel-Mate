@@ -21,7 +21,7 @@ import android.view.MenuItem;
 import com.estimote.sdk.BeaconManager;
 import com.estimote.sdk.Region;
 
-import Util.Constants;
+import utils.Constants;
 import tie.hackathon.travelguide.login.LoginActivity;
 
 /**
